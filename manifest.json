@@ -11,7 +11,7 @@
         {
                 "checksum": "3c0a95a9943596cc0560388cd6603c32",
                 "changelog": "Added minor changes",
-                "targetAbi": "10.9.0.0",
+                "targetAbi": "10.8.0.0",
                 "sourceUrl": "https://github.com/ThePornDatabase/Jellyfin.Plugin.ThePornDB/releases/download/latest/Jellyfin.Plugin.ThePornDB.zip",
                 "timestamp": "2023-02-24 21:32:25",
                 "version": "latest"
