@@ -16,7 +16,7 @@
                 "timestamp": "2023-02-24 21:32:25",
                 "version": "1.2"
             
-            ,{
+        },{
                 "checksum": "fd496a5496cb05d30475f747e2dd5766",
                 "changelog": "Added Latest Jellyfin Support (10.8.0); Added Latest Emby Support (4.7); Minor Changes",
                 "targetAbi": "10.8.0.0",
